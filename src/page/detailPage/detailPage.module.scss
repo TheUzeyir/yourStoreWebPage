@@ -1,0 +1,372 @@
+.detailPage_goBack {
+    display: flex;
+    align-self: center !important;
+}
+
+.detailPage_goBack:hover {
+    color: blue;
+    cursor: pointer;
+}
+
+.product {
+    margin: 5rem 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 5rem;
+}
+
+.product_images {
+    width: 22rem;
+    height: 34rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.product_images_main {
+    width: 100%;
+    height: 25rem;
+}
+
+.product_images_main_img {
+    width: 100%;
+    height: 100%;
+    border-radius: 1rem;
+    border: 1px solid black;
+}
+
+.product_images_box {
+    width: 100%;
+    height: 5rem;
+    display: flex;
+    gap: 1.5rem;
+}
+
+.product_images_box_other {
+    width: 4.5rem;
+    height: 5rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    border: 1px solid black;
+}
+
+.product_images_box_others {
+    width: 90px;
+    height: 5rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+
+}
+
+.product_info {
+    width: 30rem;
+    height: 21rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.product_info_title { 
+    color: black;
+    font-size: 2rem;
+}
+
+.product_info_decs {
+    width: 90%;
+    font-size: 1rem;
+    color: gray;
+}
+
+.product_info_sale_box_price {
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-top: 1rem;
+}
+
+.product_info_sale_box_percentage {
+    background-color: black;
+    color: white;
+    font-size: 14px;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.product_info_sale_box {
+    display: flex;
+    align-items: center;
+}
+
+.product_info_sale_dis-percentage {
+    color: gray;
+    font-weight: 600;
+    font-size: 0.8rem;
+    margin-top: 0.5rem;
+}
+
+.product_buy {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.product_buy_btn_icon {
+    font-size: 1.25rem;
+    margin-top: -5px;
+}
+
+.product_buy_btn_desc {
+    padding-left: 1rem;
+    font-weight: 600;
+}
+
+.product_buy_counter {
+    width: 200px;
+    height: 50px;
+    border-radius: 8px;
+    background: rgb(240, 242, 243);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px;
+}
+
+.product_buy_counter_minus {
+    color: black;
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+.product_buy_counter_count {
+    font-size: 1rem;
+}
+
+.product_buy_counter_plus {
+    color: black;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.button {
+    cursor: pointer;
+    --width: 12.5rem;
+    --height: 2.5rem;
+    --tooltip-height: 35px;
+    --tooltip-width: 4.5rem;
+    --gap-between-tooltip-to-button: 0.9rem;
+    --button-color: black;
+    --tooltip-color: #fff;
+    width: var(--width);
+    height: var(--height);
+    background: var(--button-color);
+    position: relative;
+    text-align: center;
+    border-radius: 0.5em;
+    font-family: "Arial";
+    transition: 0.7s;
+}
+
+.button::before {
+    position: absolute;
+    content: attr(data-tooltip);
+    width: var(--tooltip-width);
+    height: var(--tooltip-height);
+    background-color: black;
+    font-size: 0.9rem;
+    color: #fff;
+    border-radius: 0.25em;
+    line-height: var(--tooltip-height);
+    bottom: calc(var(--height) + var(--gap-between-tooltip-to-button) + 0.5rem);
+    left: calc(50% - var(--tooltip-width) / 2);
+}
+
+.button::after {
+    position: absolute;
+    content: "";
+    width: 0;
+    height: 0;
+    border: 0.5rem solid transparent;
+    border-top-color: black;
+    left: calc(50% - 0.5rem);
+    bottom: calc(100% + var(--gap-between-tooltip-to-button) - 0.5rem);
+}
+
+.button::after,
+.button::before {
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.5s;
+}
+
+.text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button-wrapper,
+.text,
+.icon {
+    overflow: hidden;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    color: #fff;
+}
+
+.text {
+    top: 0;
+}
+
+.text,
+.icon {
+    transition: top 0.5s;
+}
+
+.icon {
+    color: #fff;
+    top: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icon svg {
+    width: 1.2rem;
+    height: 1.2rem;
+}
+
+.button:hover {
+    background: white;
+    border: 2px solid black;
+}
+
+.button:hover .text {
+    top: -100%;
+}
+
+.button:hover .icon {
+    top: 0;
+    color: #000;
+}
+
+.button:hover:before,
+.button:hover:after {
+    opacity: 1;
+    visibility: visible;
+}
+
+.button:hover:after {
+    bottom: calc(var(--height) + var(--gap-between-tooltip-to-button) - 1rem);
+}
+
+.button:hover:before {
+    bottom: calc(var(--height) + var(--gap-between-tooltip-to-button));
+}
+
+.product_buy_btn {
+    width: 0.5rem;
+    height: 0.5rem;
+}
+
+.button .icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button .icon svg {
+    width: 80%;
+    height: 80%;
+}
+
+.main_img_box {
+    display: block !important;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%);
+    width: 20rem;
+    height: 20rem;
+    display: flex;
+}
+
+.main_img_box_img {
+    width: 100%;
+    height: 100%;
+}
+
+.offerBox_title {
+    font-weight: bold;
+    margin:30px 0 -30px 0;
+}
+
+.offerBox_sameProduct_title{
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+@media screen and (max-width:968px) {
+    .product_buy {
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .product {
+        display: flex;
+        align-items: start;
+    }
+
+    .product_info_title {
+        font-size: 20px;
+    }
+
+    .product_info_decs {
+        font-size: 15px;
+    }
+
+    .product_images {
+        width: 200px;
+        height: 200px;
+
+        &_box_other {
+            width: 30px;
+            height: 50px;
+            margin: 10px 0;
+        }
+    }
+
+    .product_info {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .product_buy_counter,
+    .button {
+        width: 100px;
+        font-size: 8px;
+    }
+
+    .offerBox_title {
+        margin-bottom: 40px;
+    }
+}
+
+@media screen and (max-width:450px) {
+    .product {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .product_info {
+        width: 100%;
+    }
+}

@@ -1,0 +1,241 @@
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .fullWidth {
+    width: 1440px;
+  }
+  
+  .swiper {
+    width: 100%;
+    height: 400px;
+  }
+  
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .findMoreCard {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+  
+  .findMoreCard_secondBox,
+  .findMoreCard_thirdBox {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    margin: 1rem 2rem;
+  }
+  
+  .autoVideo_container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .autoVideo_btn {
+    position: relative;
+    display: flex;
+    margin-top: -1rem;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    background: black;
+    font-family: "Montserrat", sans-serif;
+    box-shadow: 0px 6px 24px 0px black;
+    overflow: hidden;
+    cursor: pointer;
+    border: none;
+  }
+  
+  .autoVideo_btn:after {
+    content: " ";
+    width: 0%;
+    height: 100%;
+    background: white;
+    position: absolute;
+    transition: all 0.4s ease-in-out;
+    right: 0;
+  }
+  
+  .autoVideo_btn:hover::after {
+    right: auto;
+    left: 0;
+    width: 100%;
+  }
+  
+  .autoVideo_btn .autoVideo_btn_span {
+    text-align: center;
+    text-decoration: none;
+    width: 100%;
+    padding: 18px 25px;
+    color: #fff;
+    font-size: 1.125em;
+    font-weight: 700;
+    letter-spacing: 0.3em;
+    z-index: 20;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .autoVideo_btn:hover .autoVideo_btn_span {
+    color: #183153;
+    animation: scaleUp 0.3s ease-in-out;
+  }
+  
+  @keyframes scaleUp {
+    0% {
+      transform: scale(1);
+    }
+  
+    50% {
+      transform: scale(0.95);
+    }
+  
+    100% {
+      transform: scale(1);
+    }
+  }
+  
+  
+  .miniInfoCard{
+    display: flex; 
+    justify-content: space-between;
+    gap: 20px;
+  
+    &_box{
+        display: flex;
+        gap: 20px;
+    }
+  }
+  
+  .autoVideo {
+    position: relative;
+    overflow: hidden;
+    height: 500px;
+    width: 100%;
+    margin: 2rem 0;
+    border-radius: 8px;
+  }
+  
+  .autoVideo_card1,
+  .autoVideo_card2,
+  .autoVideo_card3,
+  .autoVideo_card4 {
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    animation: show 16s infinite;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  
+  
+  .autoVideo_card_btn1,
+  .autoVideo_card_btn2,
+  .autoVideo_card_btn3,
+  .autoVideo_card_btn4{
+    position: absolute;
+    bottom: 20px;
+    background-color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: opacity 0.3s ease-in-out;
+  }  
+  .autoVideo_card_title{
+    position: absolute;
+    color: white;
+    width: 30%;
+    left: 50px;
+    top: 80px;
+    font-size: 1rem;
+    transition: opacity 0.3s ease-in-out;
+  }
+  
+  .autoVideo_card_img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    width: 100%;
+    height: 100%;
+  }
+  
+  @keyframes show {
+    0% { opacity: 0; }
+    8% { opacity: 1; }
+    25% { opacity: 1; transform: scale(1.06); }
+    38% { opacity: 1; transform: scale(1.04); }
+    100% { opacity: 0; }
+  }
+  
+  .autoVideo_card1 {
+    animation-delay: 0s;
+  }
+  
+  .autoVideo_card2 {
+    animation-delay: 4s;
+  }
+  
+  .autoVideo_card3 {
+    animation-delay: 8s;
+  }
+  
+  .autoVideo_card4 {
+    animation-delay: 12s;
+  }
+  
+  .miniInfoCard{
+    display: flex;
+    justify-content: space-between;
+  
+    &_box{
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+  }
+  .footer_nav{
+    background: #2A2036;
+    color: white;
+    padding-top: 1rem;
+    cursor: pointer;
+  }
+  .footer_nav_text{
+    display: flex;
+    align-items: center;
+    gap: 1rem ;
+    margin-left: 45%;
+  }
+  
+  @media screen and (max-width:968px) {
+    .miniInfoCard_box{
+     font-size: 15px;
+    }
+  }
+  @media screen and (max-width:768px) {
+    .miniInfoCard{
+     flex-direction: column;
+     gap: 1rem;
+    }
+  
+    .findMoreCard_secondBox,
+    .findMoreCard_thirdBox {
+        grid-template-columns: 1fr;
+        margin: 1rem;
+    }
+  
+    .footer_nav_text{
+      margin-left: 40%;
+    }
+  
+  }

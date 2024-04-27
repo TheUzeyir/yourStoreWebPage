@@ -1,0 +1,100 @@
+.shopPage_main_filter_priceCard {
+    padding: 1rem 0;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+}
+
+.shopPage_main_filter_priceCard_header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: gray;
+}
+
+.shopPage_main_filter_priceCard_header_icon {
+    cursor: pointer;
+}
+
+.shopPage_main_filter_priceCard_header_icon_displayRotate {
+    transform: rotate(180deg);
+    transition-duration: .5s;
+}
+
+.shopPage_main_filter_priceCard_header_icon {
+    color: #000;
+    transition-duration: .5s;
+}
+
+.shopPage_main_filter_storage_card_box_icon.checked {
+    background-color: #007bff;
+    color: #ffffff;
+}
+
+.shopPage_main_filter_storage_card_box_icon:hover {
+    cursor: pointer;
+    background-color: #f0f0f0;
+}
+
+.shopPage_filterBox {
+    border-bottom: 1px solid gray;
+}
+
+.shopPage_main_filter_storage_header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.shopPage_main_filter_storage_header_title {
+    color: gray;
+    margin: 1rem 0;
+    font-size: 0.9rem;
+}
+
+.shopPage_main_filter_priceCard_filterBox_titleBox {
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem 0;
+}
+
+.shopPage_main_filter_priceCard_filterBox_displayNone {
+    display: none;
+}
+
+.shopPage_main_filter_storage_header_icon {
+    cursor: pointer;
+    transition-duration: .5s;
+}
+
+.shopPage_main_filter_storage_card_box {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.shopPage_main_filter_storage_card_box_icon {
+    border-radius: 8px;
+}
+
+.shopPage_main_filter_storage_card_displayNone {
+    display: none;
+}
+
+.shopPage_main_filter_storage_header_icon_displayRotate {
+    transform: rotate(180deg);
+    transition-duration: .5s;
+}
+
+
+.shopPage_main_filter_priceCard_filterBox_input {
+    width: 100%;
+    cursor: pointer;
+}
+
+.shopPage_main_filter_priceCard_main_titleBox {
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem 0;
+    gap: 2rem;
+}

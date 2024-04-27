@@ -1,0 +1,1067 @@
+[
+    {
+    "id":1,
+    "product":"Laptop",
+    "title":"Inch Laptop",
+    "count":1,
+    
+    "model":"Razer",
+    "description": "15.6 Inch Intel Gaming Laptop",
+    "price": 1469.67,
+    "category": "Laptop",
+    "thumbnail": "https://t4.ftcdn.net/jpg/02/07/45/97/360_F_207459754_XZ4VRclGSmux91GZ0ukm4oOPcF8wkN08.jpg",
+    "images": [
+        "https://multi-themes.myshopify.com/cdn/shop/products/H6d1cfa5cdbfd432881b41f0c9dd00af9G.webp?v=1693224532",
+        "https://multi-themes.myshopify.com/cdn/shop/products/H0fe4502f25454271b1e524d3e3c63fc7y_70x.webp?v=1693224532",
+        "https://multi-themes.myshopify.com/cdn/shop/products/H102d86b638394b70b3744e544c649a01I_70x.webp?v=1693224532",
+        "https://multi-themes.myshopify.com/cdn/shop/products/H9981e12035aa4aae85a792df1eb4805bF_70x.webp?v=1693224532"
+        ]
+    },
+    {
+    "id":2,
+    "product":"Laptop",
+    "title":"Gaming Laptop RTX3080",
+    "count":1,
+    
+    "model":"Apple",
+    "description": "15.6 Inch Gaming Laptop RTX3080",
+    "price": 1589.97,
+    "category": "Laptop",
+    "thumbnail": "https://t3.ftcdn.net/jpg/02/94/47/28/360_F_294472863_nGDVLi2KXeciBOqpaYRJpMFw7uEO7x3k.jpg",
+    "images": [
+        "https://multi-themes.myshopify.com/cdn/shop/files/Sce4a074830614fc8a36919ae3f9f6ae6X.webp?v=1693306617",
+        "https://multi-themes.myshopify.com/cdn/shop/files/Sce4a074830614fc8a36919ae3f9f6ae6X.webp?v=1693306617",
+        "https://multi-themes.myshopify.com/cdn/shop/files/Sd7c4288f891f42ca9e66e511b2d481b4M_70x.webp?v=1693306617",
+        "https://multi-themes.myshopify.com/cdn/shop/files/Saef8c4fcc48341babad91683bee47b64y_70x.webp?v=1693306617"
+        ]
+    },
+    {
+    "id":3,
+    "product":"Laptop",
+    "title":"slim Laptop",
+    "count":1,
+    
+    "model":"HP",
+    "description": "16 Inch Laptop Core i7",
+    "price": 559.97,
+    "category": "Laptop",
+    "thumbnail": "https://img.freepik.com/premium-photo/glasses-near-laptop-reflect-light-from-screen-dark-copy-space_169016-14299.jpg",
+    "images": [
+        "https://multi-themes.myshopify.com/cdn/shop/files/S6885cfb6ef6941c09b88ef36c4ed8c09s_70x.webp?v=1693489748",
+        "https://multi-themes.myshopify.com/cdn/shop/files/S6885cfb6ef6941c09b88ef36c4ed8c09s_70x.webp?v=1693489748",
+        "https://multi-themes.myshopify.com/cdn/shop/files/S560b67f34fac436e97a8bb08a0acca0bw_70x.webp?v=1693489749",
+        "https://multi-themes.myshopify.com/cdn/shop/files/S560b67f34fac436e97a8bb08a0acca0bw_70x.webp?v=1693489749"
+        ]
+    },
+    {
+    "id":4,
+    "product":"Laptop",
+    "title":"slim Laptop",
+    "count":1,
+    
+    "model":"MSI",
+    "description": "17.4 Inch Laptop Core i7",
+    "price": 969.97,
+    "category": "Laptop",
+    "thumbnail": "https://t3.ftcdn.net/jpg/01/70/28/92/360_F_170289223_KNx1FpHz8r5ody9XZq5kMOfNDxsZphLz.jpg",
+    "images": [
+        "https://multi-themes.myshopify.com/cdn/shop/files/H05a274d7e7824d46b7b3238ba13b5cfeF_70x.webp?v=1693488883",
+        "https://multi-themes.myshopify.com/cdn/shop/files/H07d7e5612fca4d56b303d64bcc560e1bt_70x.webp?v=1693488882",
+        "https://multi-themes.myshopify.com/cdn/shop/files/H85b3a16e914448ccaa3501684bd69390Z_70x.webp?v=1693488883",
+        "https://multi-themes.myshopify.com/cdn/shop/files/brandon-romanchuk-rQb-17JmGmk-unsplash_70x.jpg?v=1694503428"
+        ]
+    },
+    {
+    "id":5,
+    "product":"Laptop",
+    "title":"slim Laptop",
+    "count":1,
+    
+    "model":"Apple",
+    "description": "13.3 inch Slim Laptop",
+    "price": 899.97,
+    "category": "Laptop",
+    "thumbnail": "https://t4.ftcdn.net/jpg/01/39/98/33/360_F_139983330_kukAye9ot93LiCpKpkiybLM4ILy0mwwN.jpg",
+    "images": [
+        "https://multi-themes.myshopify.com/cdn/shop/products/Hdb8f57f05d194139a288cd94e81faaa7g.webp?v=1693851519",
+        "https://multi-themes.myshopify.com/cdn/shop/products/H7821dbd6696f4282847758b33d43ef0cg_70x.webp?v=1693851519",
+        "https://multi-themes.myshopify.com/cdn/shop/products/H3f511747f4d748548b21e7cfd39e1322U_70x.webp?v=1693224347",
+        "https://multi-themes.myshopify.com/cdn/shop/files/bram-van-oost-6WvZo5FOxww-unsplash_1_70x.jpg?v=1694502107"
+        ]
+    },
+    {
+    "id":6,
+    "product":"Laptop",
+    "title":"Chromebook Laptop",
+    "count":1,
+    
+    "model":"Asus",
+    "description": "14 inch Chromebook Laptop",
+    "price": 347.80,
+    "category": "Laptop",
+    "thumbnail": "https://t3.ftcdn.net/jpg/04/15/76/54/360_F_415765406_bNYus3fB14MOQEBTwFM6WeCmj7byxGRO.jpg",
+    "images": [
+        "https://multi-themes.myshopify.com/cdn/shop/files/H3e5032dbaff14d6ba47ac456b74b1cccR_70x.webp?v=1693307284",
+        "https://multi-themes.myshopify.com/cdn/shop/files/He99de5d623674bcaa40a1fa9b7925668a_70x.webp?v=1693307284",
+        "https://multi-themes.myshopify.com/cdn/shop/files/Hd7bac59693f24bb8930b96c133d6712eX_70x.webp?v=1693307284",
+        "https://multi-themes.myshopify.com/cdn/shop/files/dell-TxXuh_hAFd8-unsplash_1_70x.jpg?v=1694514244"
+        ]
+    },
+    {
+    "id":7,
+    "product":"Laptop",
+    "title":"Medion Erazer Crawler E30",
+    "count":1,
+    "model":"Asus",
+    "description": "Medion Erazer Crawler E30 Core i5-12450H 8GB 512GB GTX 1650 15.6 Inch Windows 11 Gaming Laptop",
+    "price": 579.97,
+    "category": "Laptop",
+    "thumbnail": "https://t4.ftcdn.net/jpg/02/86/22/61/360_F_286226119_4Zjdd2TpZo7jUQNS1BkKSHSCc7b9Bam6.jpg",
+    "images": [
+        "https://yuva-theme-amaze.myshopify.com/cdn/shop/files/1_6e1bb847-01c6-497c-9a57-24222c5ca0f0.jpg?v=1688714454&width=900",
+        "https://yuva-theme-amaze.myshopify.com/cdn/shop/files/1-1_a0628aca-a3a6-44f2-a96e-a5990937d864.jpg?v=1688714454&width=180",
+        "https://yuva-theme-amaze.myshopify.com/cdn/shop/files/2_b7a6fee2-45d5-419b-9b70-3362075c356d.jpg?v=1688714454&width=180",
+        "https://yuva-theme-amaze.myshopify.com/cdn/shop/files/3_350b4fe7-f062-4871-a4a9-b1d809dc2f39.jpg?v=1688714454&width=180"
+        ]
+    },
+    {
+    "id":8,
+    "product":"Laptop",
+    "title":"Asus TUF F15",
+    "count":1,
+    "model":"Asus",
+    "description": "Asus TUF F15 Intel Core i5 8GB 512GB RTX 3050Ti 144Hz FHD 15.6 Inch Windows 11 Gaming Laptop    ",
+    "price": 699.97,
+    "category": "Laptop",
+    "thumbnail": "https://thumbs.dreamstime.com/b/laptop-black-screen-isolated-black-background-laptop-black-screen-isolated-black-background-d-illustr-106598224.jpg",
+    "images": [
+        "https://veena-theme.myshopify.com/cdn/shop/products/pngwing.com_31.jpg?v=1705991681&width=713",
+        "https://veena-theme.myshopify.com/cdn/shop/products/pngwing.com_32.jpg?v=1705991681&width=713",
+        "https://veena-theme.myshopify.com/cdn/shop/products/pngwing.com_29.jpg?v=1705991681&width=713",
+        ""
+        ]
+    },
+    {
+    "id":9,
+    "product":"Laptop",
+    "title":"MSI Katana 17 B13VEK-015UK",
+    "count":1,
+    "model":"MSI",
+    "description": "MSI Katana 17 B13VEK-015UK Intel Core i7 16GB 1TB RTX 4050 144Hz 17.3 Inch FHD Windows 11 Gaming Laptop    ",
+    "price": 1099.97,
+    "category": "Laptop",
+    "thumbnail": "https://media.istockphoto.com/id/1590532454/photo/mockup-of-a-realistic-modern-laptop-with-blank-screen-on-a-black-background.jpg?s=612x612&w=is&k=20&c=kPb1TIMJi0ImGXU-L8ZTGYufPobc42RBjTppTlgyZJc=",
+    "images": [
+        "https://media.istockphoto.com/id/1590532454/photo/mockup-of-a-realistic-modern-laptop-with-blank-screen-on-a-black-background.jpg?s=612x612&w=is&k=20&c=kPb1TIMJi0ImGXU-L8ZTGYufPobc42RBjTppTlgyZJc=",
+        "https://demo-kalles-4-4.myshopify.com/cdn/shop/products/ZenBook.jpg?v=1675306718&width=800",
+        "https://demo-kalles-4-4.myshopify.com/cdn/shop/products/ZenBook2.jpg?v=1675306718&width=800",
+        ""
+        ]
+    },
+    {
+    "id":10,
+    "product":"Laptop",
+    "title":"HP Victus Intel Core i5",
+    "count":1,
+    "model":"HP",
+    "description": "HP Victus Intel Core i5 8GB 512GB RTX 2050 144Hz FHD IPS 15.6 Inch Windows 11 Gaming Laptop    ",
+    "price": 729.88,
+    "category": "Laptop",
+    "thumbnail": "https://media.gettyimages.com/id/172786948/photo/laptop-no-2.jpg?s=612x612&w=gi&k=20&c=j6xe-kL0sF6it7LfbOKK8--FHx2AsuslTFJKfb7wyoY=",
+    "images": [
+        "https://demo-kalles-4-4.myshopify.com/cdn/shop/products/Dell-1.jpg?v=1675306728&width=800",
+        "https://demo-kalles-4-4.myshopify.com/cdn/shop/products/xps-2.jpg?v=1675306728&width=120",
+        "https://demo-kalles-4-4.myshopify.com/cdn/shop/products/xps-4.jpg?v=1675306728&width=120",
+        "https://demo-kalles-4-4.myshopify.com/cdn/shop/products/xps-3.jpg?v=1675306728&width=120"
+        ]
+    },
+    {
+    "id":11,
+    "count":1,
+    "product":"Monitor",
+    "title":"LG 34WR50QC 34",
+    
+    "model":"LG",
+    "description": "LG 34WR50QC 34 QHD UltraWide Curved Monitor",
+    "price": 269.7,
+    "category": "Monitor",
+    "thumbnail": "https://multi-themes.myshopify.com/cdn/shop/products/S9e74069fc8c84bbd83b0cc0b89d6dfbdV.webp?v=1693224495",
+    "images": [
+        "https://multi-themes.myshopify.com/cdn/shop/products/S9e74069fc8c84bbd83b0cc0b89d6dfbdV.webp?v=1693224495",
+        "https://multi-themes.myshopify.com/cdn/shop/products/S2b45889b52f54ac8804710e5a4cbbf66B_70x.webp?v=1693224495",
+        "https://multi-themes.myshopify.com/cdn/shop/products/S7e2444148305477faf67be6481318ae8y_70x.webp?v=1693224495",
+        "https://multi-themes.myshopify.com/cdn/shop/products/S6e0f4729ca8141288857644191555ba4O_940x.webp?v=1693224495"
+        ]
+    },
+    {
+    "id":12,
+    "count":1,
+    "product":"Monitor",
+    "title":"electriQ 49SUWD144FSHQ-V3 49",
+    "model":"electriQ",
+    "description": "electriQ 49SUWD144FSHQ-V3 49 QLED Full HD 144Hz Super UltraWide Curved Monitor",
+    "price": 499.97,
+    "category": "Monitor",
+    "thumbnail": "https://veena-theme.myshopify.com/cdn/shop/products/1_725674bb-04d2-4be5-9f4f-61493c841c1d.jpg?v=1705991694&width=713",
+    "images": [
+        "https://veena-theme.myshopify.com/cdn/shop/products/1_725674bb-04d2-4be5-9f4f-61493c841c1d.jpg?v=1705991694&width=713",
+        "https://veena-theme.myshopify.com/cdn/shop/products/2_40695aa2-8530-40a8-92f7-5c5ae110febb.jpg?v=1705991694&width=713",
+        "https://veena-theme.myshopify.com/cdn/shop/products/3_7fa7d43d-4156-4de5-a79a-e77881e83f96.jpg?v=1705991694&width=713",
+        ""
+        ]
+    },
+    {
+    "id":13,
+    "count":1,
+    "product":"Monitor",
+    "title":"electriQ 30CVWF200VAFSGH 30",
+    "model":"electriQ",
+    "description": "ElectriQ-30CVWF200VAFSGH 30 Full HD UltraWide HDR 200Hz FreeSync Gaming Monitor",
+    "price": 199,
+    "category": "Monitor",
+    "thumbnail": "https://demo-kalles-4-4.myshopify.com/cdn/shop/products/tv-24.jpg?v=1675307051&width=600",
+    "images": [
+        "https://demo-kalles-4-4.myshopify.com/cdn/shop/products/tv-24.jpg?v=1675307051&width=600",
+        "https://demo-kalles-4-4.myshopify.com/cdn/shop/products/tv-25.jpg?v=1675307051&width=120",
+        "https://demo-kalles-4-4.myshopify.com/cdn/shop/products/tv-26.jpg?v=1675307051&width=120",
+        "https://demo-kalles-4-4.myshopify.com/cdn/shop/products/tv-27.jpg?v=1675307051&width=120"
+        ]
+    },
+    {
+    "id":14,
+    "count":1,
+    "product":"Monitor",
+    "title":"AOC 24G2SPAE G2 24",
+    "model":"AOC",
+    "description": "AOC 24G2SPAE G2 24IPS Full HD 165Hz 1ms FreeSync Gaming Monitor    ",
+    "price": 138.11,
+    "category": "Monitor",
+    "thumbnail": "https://demo-kalles-4-4.myshopify.com/cdn/shop/products/B2D9B9CCB1E2_2.jpg?v=1675307062&width=800",
+    "images": [
+        "",
+        "",
+        "",
+        ""
+        ]
+    },
+    {
+    "id":15,
+    "count":1,
+    "product":"Monitor",
+    "title":"ViewSonic VX2718-PC-MHD 27",
+    
+    "model":"ViewSonic",
+    "description": "ViewSonic VX2718-PC-MHD 27Full HD 165Hz FreeSync Curved Gaming Monitor    ",
+    "price": 149.34,
+    "category": "Monitor",
+    "thumbnail": "https://gaming-workdo.myshopify.com/cdn/shop/products/1_1b6b9b1a-54f6-4df3-99ee-8d9362e873ba_600x600.png?v=1671450610",
+    "images": [
+        "https://gaming-workdo.myshopify.com/cdn/shop/products/1_1b6b9b1a-54f6-4df3-99ee-8d9362e873ba_600x600.png?v=1671450610",
+        "https://gaming-workdo.myshopify.com/cdn/shop/products/2_e88ddd82-744a-4eb6-915b-8018d2af67ae_600x600.png?v=1671450611",
+        "https://gaming-workdo.myshopify.com/cdn/shop/products/3_b961f91b-29a0-460d-8528-a3a9e82e9fa7_600x600.png?v=1671450611",
+        ""
+        ]
+    },
+    {
+    "id":16,
+    "count":1,
+    "product":"Monitor",
+    "title":"Philips E-line 241E1SC 24",
+    "model":"Philips",
+    "description": "Philips E-line 241E1SC 24Full HD FreeSync Curved Monitor",
+    "price": 99.97,
+    "category": "Monitor",
+    "thumbnail": "https://gaming-workdo.myshopify.com/cdn/shop/products/dfgg_600x600.png?v=1671450816",
+    "images": [
+        "https://gaming-workdo.myshopify.com/cdn/shop/products/dfgg_600x600.png?v=1671450816",
+        "https://gaming-workdo.myshopify.com/cdn/shop/products/2_67515386-a27c-4026-99b6-c0da8445cd6c_600x600.png?v=1671450816",
+        "https://gaming-workdo.myshopify.com/cdn/shop/products/2_67515386-a27c-4026-99b6-c0da8445cd6c_600x600.png?v=1671450816",
+        ""
+        ]
+    },
+    {
+    "id":17,
+    "count":1,
+    "product":"Monitor",
+    "title":"ASUS ROG Strix 30",
+    "model":"Asus",
+    "description": "ASUS ROG Strix 30Ultrawide IPS Full HD 220Hz USB-C Gaming Monitor",
+    "price": 279.97,
+    "category": "Monitor",
+    "thumbnail": "https://gaming-workdo.myshopify.com/cdn/shop/products/1_4661881d-c8c7-4d3b-962e-038344e4ac81_600x600.png?v=1671451100",
+    "images": [
+        "https://gaming-workdo.myshopify.com/cdn/shop/products/1_4661881d-c8c7-4d3b-962e-038344e4ac81_600x600.png?v=1671451100",
+        "https://gaming-workdo.myshopify.com/cdn/shop/products/2_55e7b400-5582-4edf-8a80-cbfc6ed327a7_600x600.png?v=1671451099",
+        "https://gaming-workdo.myshopify.com/cdn/shop/products/3_5dfac41e-149d-4bbd-8a5d-6ffc16e207d4_600x600.png?v=1671451100",
+        "https://gaming-workdo.myshopify.com/cdn/shop/products/4_e72d0ae8-ac42-44e0-8222-251ef40c9c8d_600x600.png?v=1671451099"
+        ]
+    },
+    {
+    "id":18,
+    "count":1,
+    "product":"Monitor",
+    "title":"BenQ MOBIUZ EX3210R 32",
+    "model":"BenQ",
+    "description": "BenQ MOBIUZ EX3210R 32 QHD HDR 165Hz Curved Gaming Monitor",
+    "price": 357.77,
+    "category": "Monitor",
+    "thumbnail": "https://multi-themes.myshopify.com/cdn/shop/files/Aad9571f581414d9bb77df52b4b579a87q_70x.webp?v=1693306819",
+    "images": [
+        "https://multi-themes.myshopify.com/cdn/shop/files/Aad9571f581414d9bb77df52b4b579a87q_70x.webp?v=1693306819",
+        "https://multi-themes.myshopify.com/cdn/shop/files/mediamodifier-EYP0L1o0iBc-unsplash_70x.jpg?v=1694506565",
+        "https://multi-themes.myshopify.com/cdn/shop/files/Ae9952ee5dcdf43719549a2e4ec0ce2f9P_70x.webp?v=1694506565",
+        "https://multi-themes.myshopify.com/cdn/shop/files/A1fa41dcec075422fb2a9423e60b57a44M_70x.jpg?v=1694506565"
+        ]
+    },
+    {
+    "id":19,
+    "count":1,
+    "product":"Monitor",
+    "title":"Asus Desktop Monitor",
+    "model":"electriQ",
+    "description": "Asus 27 Inch Desktop Monitor",
+    "price": 74.98,
+    "category": "Monitor",
+    "thumbnail": "https://multi-themes.myshopify.com/cdn/shop/products/647f023074b48976b5853b3c.webp?v=1693224343",
+    "images": [
+        "https://multi-themes.myshopify.com/cdn/shop/products/647f023074b48976b5853b3c.webp?v=1693224343",
+        "https://multi-themes.myshopify.com/cdn/shop/files/fernando-hernandez-lVuV7AcfOrY-unsplash_940x.jpg?v=1694505505",
+        "https://multi-themes.myshopify.com/cdn/shop/products/647f023074b48976b5853b3e.webp?v=1693224343",
+        "https://multi-themes.myshopify.com/cdn/shop/products/647f023074b48976b5853b44.webp?v=1693224343"
+        ]
+    },
+    {
+    "id":20,
+    "count":1,
+    "product":"Monitor",
+    "title":"LG UltraWide 34WN780P 34",
+    
+    "model":"LG",
+    "description": "LG UltraWide 34WN780P 34QHD IPS HDR Monitor",
+    "price": 299.00,
+    "category": "Monitor",
+    "thumbnail": "https://gaming-workdo.myshopify.com/cdn/shop/products/1_59d858e2-42a5-4b1e-8290-814441526d5d_600x600.png?v=1671450961",
+    "images": [
+        "https://gaming-workdo.myshopify.com/cdn/shop/products/1_59d858e2-42a5-4b1e-8290-814441526d5d_600x600.png?v=1671450961",
+        "https://gaming-workdo.myshopify.com/cdn/shop/products/2_887fbb4d-b337-4677-ae97-f316d7fca32f_600x600.png?v=1671450962",
+        "https://gaming-workdo.myshopify.com/cdn/shop/products/4_f36f32cf-c7e8-4e61-986a-f540bf322d9d_600x600.png?v=1671450963",
+        "https://gaming-workdo.myshopify.com/cdn/shop/products/11_8ff55efa-cb53-49db-a806-d5cdd3aa41c5_600x600.png?v=1671450963"
+        ]
+    },
+    {
+    "id":21,
+    "count":1,
+    "product":"PC",
+    "title":"Medion Erazer Engineer X31",
+
+    
+    "model":"Medion",
+    "description": "Medion Erazer Engineer X31 Core i5-12400 16GB 512GB SSD RTX 3060Ti Windows 11 Gaming Desktop",
+    "price": 879.00,
+    "category": "PC",
+    "thumbnail": "https://multi-themes.myshopify.com/cdn/shop/products/S46d903af6b2d45fdb912427caa51c849d.webp?v=1693224308",
+    "images": [
+        "https://multi-themes.myshopify.com/cdn/shop/products/S46d903af6b2d45fdb912427caa51c849d.webp?v=1693224308",
+        "https://multi-themes.myshopify.com/cdn/shop/files/Sapphire-Nitro-M01-Micro-Tower-MATX-4.jpg?v=1693898587",
+        "",
+        ""
+        ]
+    },
+    {
+    "id":22,
+    "count":1,
+    "product":"PC",
+    "title":"Medion Erazer X31 ",
+    "model":"Medion",
+    "description": "Medion Erazer X31 Core i7-12700 16GB 512GB RTX 3060Ti Windows 11 Gaming Desktop",
+    "price": 1099.09,
+    "category": "PC",
+    "thumbnail": "https://multi-themes.myshopify.com/cdn/shop/products/S710d521d17754084b3b56f5fd6cadf42A_940x.webp?v=1693329139",
+    "images": [
+        "https://multi-themes.myshopify.com/cdn/shop/products/S710d521d17754084b3b56f5fd6cadf42A_940x.webp?v=1693329139",
+        "https://multi-themes.myshopify.com/cdn/shop/products/S4fadb9e1bba140bc98edb9730cd83595W_70x.webp?v=1693329139",
+        "https://multi-themes.myshopify.com/cdn/shop/products/S3b3c04112f034768ae74a3b6fc4b1066z_70x.webp?v=1693329139",
+        "https://multi-themes.myshopify.com/cdn/shop/products/S91fd8cdd9e774698b41873c85dc9aa12N_940x.webp?v=1693329139"
+        ]
+    },
+    {
+    "id":23,
+    "count":1,
+    "product":"PC",
+    "title":"Acer Predator PO3-640",
+    
+    "model":"Acer",
+    "description": "Acer Predator PO3-640 Core i7-12700F 16GB 1TB SSD RTX 3070 Windows 11 Gaming PC",
+    "price": 1299.00,
+    "category": "PC",
+    "thumbnail": "https://multi-themes.myshopify.com/cdn/shop/files/Sfa0c92cd682441b28bfe6209ae212627wnew_940x.jpg?v=1693908050",
+    "images": [
+        "https://multi-themes.myshopify.com/cdn/shop/files/Sfa0c92cd682441b28bfe6209ae212627wnew_940x.jpg?v=1693908050",
+        "https://multi-themes.myshopify.com/cdn/shop/files/S7b3de4ac2c0b4884ae1ff80b880fd396Rnew_940x.webp?v=1693908093",
+        "",
+        ""
+        ]
+    },
+    {
+    "id":24,
+    "count":1,
+    "product":"PC",
+    "title":"CyberPowerPC Eurus ",
+    "model":"CyberPowerPC",
+    "description": "CyberPowerPC Eurus Intel Core i5-12400F NVIDIA GeForce RTX 3060 16GB RAM 1TB SSD Windows 11 Home Gaming PC",
+    "price": 799.30,
+    "category": "PC",
+    "thumbnail": "https://gaming-workdo.myshopify.com/cdn/shop/products/mx5-angle-1000-removebg-preview_600x600.png?v=1671451565",
+    "images": [
+        "https://gaming-workdo.myshopify.com/cdn/shop/products/mx5-angle-1000-removebg-preview_600x600.png?v=1671451565",
+        "https://gaming-workdo.myshopify.com/cdn/shop/products/gx6-side-open-1000-removebg-preview_600x600.png?v=1671451566",
+        "https://gaming-workdo.myshopify.com/cdn/shop/products/mx5-angle-1000-removebg-preview_600x600.png?v=1671451565",
+        "https://gaming-workdo.myshopify.com/cdn/shop/products/gx6-back-1000-removebg-preview_600x600.png?v=1671451565"
+        ]
+    },
+    {
+    "id":25,
+    "count":1,
+    "product":"PC",
+    "title":"CyberPowerPC Blaze",
+    
+    "model":"CyberPowerPC",
+    "description": "CyberPowerPC Blaze AMD Ryzen 5 4500 NVIDIA GeForce RTX 3050 16GB RAM 500GB SSD Windows 11 Home Gaming PC",
+    "price": 629.00,
+    "category": "PC",
+    "thumbnail": "https://gaming-workdo.myshopify.com/cdn/shop/products/nx2-backside-handleup-1000-removebg-preview_600x600.png?v=1671452014",
+    "images": [
+        "https://gaming-workdo.myshopify.com/cdn/shop/products/nx2-backside-handleup-1000-removebg-preview_600x600.png?v=1671452014",
+        "https://gaming-workdo.myshopify.com/cdn/shop/products/nx2-front-1000-removebg-preview_600x600.png?v=1671452014",
+        "https://gaming-workdo.myshopify.com/cdn/shop/products/nx2-side-halfopen-handle-1000-removebg-preview_600x600.png?v=1671452014",
+        "https://gaming-workdo.myshopify.com/cdn/shop/products/nx2-solid-1000-removebg-preview_600x600.png?v=1671452014"
+        ]
+    },
+    {
+    "id":26,
+    "count":1,
+    "product":"PC",
+    "title":"CyberpowerPC Eurus",
+    
+    "model":"CyberpowerPC",
+    "description": "CyberpowerPC Eurus Intel Core i5-12400F RTX 4070 16GB RAM 1TB SSD Windows 11 Home Gaming PC",
+    "price": 1099.00,
+    "category": "PC",
+    "thumbnail": "https://gaming-workdo.myshopify.com/cdn/shop/products/eco20-angle-glass-1000-removebg-preview_600x600.png?v=1671451684",
+    "images": [
+        "https://gaming-workdo.myshopify.com/cdn/shop/products/eco20-angle-glass-1000-removebg-preview_600x600.png?v=1671451684",
+        "https://gaming-workdo.myshopify.com/cdn/shop/products/nx2-angle-handle-1000-removebg-preview_600x600.png?v=1671451683",
+        "https://gaming-workdo.myshopify.com/cdn/shop/products/es40-3080-1000-removebg-preview_600x600.png?v=1671451689",
+        "https://gaming-workdo.myshopify.com/cdn/shop/products/eco20-side-open-1000-removebg-preview_600x600.png?v=1671451683"
+        ]
+    },
+    {
+    "id":27,
+    "count":1,
+    "product":"PC",
+    "title":"CyberPower PC LC216",
+    
+    "model":"CyberPower",
+    "description": "CyberPower PC LC216 Intel Core i5-12400F GeForce RTX 4060Ti 16GB RAM 1TB SSD Windows 11 Home Gaming PC",
+    "price": 899.52,
+    "category": "PC",
+    "thumbnail": "https://m.media-amazon.com/images/I/61FVIijQp2L._AC_SX466_.jpg",
+    "images": [
+        "https://m.media-amazon.com/images/I/61FVIijQp2L._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/61Hgf9zqPCL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/61VDYJAGQSL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/61TE8VzlTVL._AC_SX466_.jpg"
+        ]
+    },
+    {
+    "id":28,
+    "count":1,
+    "product":"PC",
+    "title":"MEDION Engineer X31",
+    "model":"MEDION",
+    "description": "MEDION Engineer X31 Core i5 12400 16GB 512GB RTX 4060Ti Windows 11 Home Gaming Desktop PC    ",
+    "price": 979.20,
+    "category": "PC",
+    "thumbnail": "https://m.media-amazon.com/images/I/71jELtZLEwL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "images": [
+        "https://m.media-amazon.com/images/I/71jELtZLEwL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/61bAVPGCf8L._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/811TRHX5y7L._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/71yZd8dbS9L._AC_SX466_.jpg"
+        ]
+    },
+    {
+    "id":29,
+    "count":1,
+    "product":"PC",
+    "title":"Medion Engineer X32",
+    
+    "model":"Medion",
+    "description": "Medion Engineer X32 Core i7 13700 16GB RAM 1TB SSD RTX 4070 Windows 11 Home Advanced Gaming Desktop",
+    "price": 1499.00,
+    "category": "PC",
+    "thumbnail": "https://m.media-amazon.com/images/I/51CoEwK44bL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "images": [
+        "https://m.media-amazon.com/images/I/51CoEwK44bL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/71yo3bmyBnL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/51e19zAcWzL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/61vhgdZGQBL._AC_SX466_.jpg"
+        ]
+    },
+    {
+    "id":30,
+    "product":"PC",
+    "title":"CyberPowerPC Kira",
+    "count":1,
+    
+    "model":"CyberPowerPC",
+    "description": "CyberPowerPC Kira AMD Ryzen 5 4500 NVIDIA GeForce RTX 4060 16GB RAM 500GB M.2 SSD Windows 11 Home Gaming PC",
+    "price": 797.00,
+    "category": "PC",
+    "thumbnail": "https://m.media-amazon.com/images/I/71HzxDvMz+L._AC_SY300_SX300_.jpg",
+    "images": [
+        "https://m.media-amazon.com/images/I/71HzxDvMz+L._AC_SY300_SX300_.jpg",
+        "https://m.media-amazon.com/images/I/51PiCp2RlvL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/41svHhSucML._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41sTjDHyvFL._AC_SX466_.jpg"
+        ]
+    },
+    {
+    "id":31,
+    "product":"Keyboard",
+    "title":"HP 235 Wireless Keyboard",
+    "count":1,
+    "model":"HP",
+    "description": "HP 235 Wireless Keyboard & Mouse Set",
+    "price": 25.25,
+    "category": "Computers",
+    "thumbnail": "https://m.media-amazon.com/images/I/61UvNbsmDrL.__AC_SY300_SX300_QL70_FMwebp_.jpg",
+    "images": [
+        "https://m.media-amazon.com/images/I/61UvNbsmDrL.__AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/71s5wm3DBUL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/61uJlIQhISL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/61vRcyUzhqL._AC_SX466_.jpg"
+        ]
+    },
+    {
+    "id":32,
+    "product":"Keyboard",
+    "title":"Logitech MK270 ",
+    "count":1,
+    
+    "model":"Logitech",
+    "description": "Logitech MK270 Wireless Keyboard and Mouse Combo Black",
+    "price": 24.00,
+    "category": "Accessories",
+    "thumbnail": "https://m.media-amazon.com/images/I/91YxKZjwOPL._AC_SX466_.jpg",
+    "images": [
+        "https://m.media-amazon.com/images/I/91YxKZjwOPL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/91-Y6Zp0YzL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/911wqCglnYL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/91i9IxMEiyL._AC_SX466_.jpg"
+        ]
+    },
+    {
+    "id":33,
+    "product":"Keyboard",
+    "title":"Genius Smart KM-8200 ",
+    "count":1,
+    
+    "model":"Genius",
+    "description": "Genius Smart KM-8200 Wireless Keyboard and Mouse Combo Black",
+    "price": 15.31,
+    "category": "Accessories",
+    "thumbnail": "https://m.media-amazon.com/images/I/71pqfvJKW5L.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "images": [
+        "https://m.media-amazon.com/images/I/71pqfvJKW5L.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/81QvouU5ciL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/81DMMHwBmJL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/61Wi0sBu0KL._AC_SX466_.jpg"
+        ]
+    },
+    {
+    "id":34,
+    "product":"Keyboard",
+    "title":"Logitech MK120",
+    "count":1,
+    "model":"Logitech",
+    "description": "Logitech MK120 Wired Keyboard and Mouse Combo Black",
+    "price": 33.20,
+    "category": "Accessories",
+    "thumbnail": "https://multi-themes.myshopify.com/cdn/shop/products/S776d205f244c49408b20ab2f15d065335.jpg_640x640_f456dd22-2e0a-44e3-bea2-8ac90465153e.webp?v=1693224417",
+    "images": [
+        "https://multi-themes.myshopify.com/cdn/shop/products/S776d205f244c49408b20ab2f15d065335.jpg_640x640_f456dd22-2e0a-44e3-bea2-8ac90465153e.webp?v=1693224417",
+        "https://multi-themes.myshopify.com/cdn/shop/products/Sd0f30cb9a5ec4a0c834564ae90ee7d570.jpg_640x640_bffdfb24-71fe-4e56-8522-0fd79e92c22f_70x.webp?v=1693224417",
+        "https://multi-themes.myshopify.com/cdn/shop/products/6408a48eb68959505e622005-redragon-k617-fizz-60-wired-rgb-gaming_70x.jpg?v=1693224417",
+        "https://multi-themes.myshopify.com/cdn/shop/files/emre-H6trzJsWwFw-unsplash_70x.jpg?v=1694513462"
+        ]
+    },
+    {
+    "id":35,
+    "product":"Keyboard",
+    "title":"Marvo Scorpion",
+    "count":1,
+    
+    "model":"Marvo",
+    "description": "Marvo Scorpion CM375 4-in-1 Gaming Starter Kit",
+    "price": 22.22,
+    "category": "Accessories",
+    "thumbnail": "https://m.media-amazon.com/images/I/81cg9myC9kL._AC_SX679_.jpg",
+    "images": [
+        "https://m.media-amazon.com/images/I/81cg9myC9kL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/51dNSKkBiqL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/81FR7RaZ6XL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/81CUhn2krDL._AC_SL1500_.jpg"
+        ]
+    },
+    {
+    "id":36,
+    "product":"Mice",
+    "title":"Hewlett Packard",
+    "count":1,
+    
+    "model":"Hewlett",
+    "description": "Hewlett Packard Wired Gaming Mouse",
+    "price": 19.91,
+    "category": "Accessories",
+    "thumbnail": "https://multi-themes.myshopify.com/cdn/shop/products/Sf073e874f6ba47f8830f14276cc0c376U_940x.png?v=1693224326",
+    "images": [
+        "https://multi-themes.myshopify.com/cdn/shop/products/Sf073e874f6ba47f8830f14276cc0c376U_940x.png?v=1693224326",
+        "https://multi-themes.myshopify.com/cdn/shop/products/Sb8c0b2c6cd06483a95f3911c8a89bd7bh_70x.webp?v=1693224326",
+        "https://multi-themes.myshopify.com/cdn/shop/products/S1429de45977a4f8da89c767934671d6er_70x.webp?v=1693224326",
+        "https://multi-themes.myshopify.com/cdn/shop/products/S3c6930bbb039479b8209006109dea830F_70x.webp?v=1693224326"
+        ]
+    },
+    {
+    "id":37,
+    "product":"Mice",
+    "title":"Cooler Master",
+    "count":1,
+    
+    "model":"Cooler",
+    "description": "Cooler Master Ergonomic Mouse for PC",
+    "price": 59.97,
+    "category": "Accessories",
+    "thumbnail": "https://multi-themes.myshopify.com/cdn/shop/products/Sdd8a390d83d54029bcf38a5def0a3ab3m.jpg_640x640_f5f7c1aa-a772-4530-aeac-f71ac5943a40.webp?v=1693224320",
+    "images": [
+        "https://multi-themes.myshopify.com/cdn/shop/products/Sdd8a390d83d54029bcf38a5def0a3ab3m.jpg_640x640_f5f7c1aa-a772-4530-aeac-f71ac5943a40.webp?v=1693224320",
+        "https://multi-themes.myshopify.com/cdn/shop/products/S20a9736de3f545948fd8fae4f69d02d3C.jpg_640x640_fcf1dc71-a111-4f68-a6c8-49df3aab9146_70x.webp?v=1693224320",
+        "https://multi-themes.myshopify.com/cdn/shop/products/S182d057be5bb44e48792bebb72c54295B.jpg_640x640_82023957-0a0b-4ea5-aef7-ffd7357e06bf_70x.webp?v=1693224320",
+        "https://multi-themes.myshopify.com/cdn/shop/products/Sca019b980b0347058caed458cccf395dF.jpg_640x640_41aab0fb-39a9-4fbe-9a28-86d415650346.webp?v=1693224320"
+        ]
+    },
+    {
+    "id":38,
+    "product":"Mice",
+    "title":"Genius",
+    "count":1,
+    
+    "model":"Genius",
+    "description": "Genius NX-7000 Wireless Mouse Black",
+    "price": 9.99,
+    "category": "Accessories",
+    "thumbnail": "https://m.media-amazon.com/images/I/8167lxUe8SL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "images": [
+        "https://m.media-amazon.com/images/I/8167lxUe8SL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/81Zt-mjITkL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/71tgHvxPYgL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/71xjB2xmMLL._AC_SX466_.jpg"
+        ]
+    },
+    {
+    "id":39,
+    "product":"Mice",
+    "title":"Lenovo ThinkPad",
+    "count":1,
+    
+    "model":"Lenovo",
+    "description": "Lenovo ThinkPad Essential Wireless Mouse Black",
+    "price": 33.33,
+    "category": "Accessories",
+    "thumbnail": "https://multi-themes.myshopify.com/cdn/shop/products/Scef68df50809499cba941fb8dd66528aX.jpg_640x640_1.webp?v=1693224489",
+    "images": [
+        "https://multi-themes.myshopify.com/cdn/shop/products/Scef68df50809499cba941fb8dd66528aX.jpg_640x640_1.webp?v=1693224489",
+        "https://multi-themes.myshopify.com/cdn/shop/products/6329216410_70x.jpg?v=1693224489",
+        "https://multi-themes.myshopify.com/cdn/shop/products/orig_70x.webp?v=1693224489",
+        "https://multi-themes.myshopify.com/cdn/shop/products/S949875c74b064cde87a17861036256efr.jpg_640x640_f846162a-d185-4093-8354-5ba044826ad0_70x.webp?v=1693224489"
+        ]
+    },
+    {
+    "id":40,
+    "product":"Mice",
+    "title":"Dell MS300 Ambidextrous",
+    "count":1,
+    
+    "model":"Dell",
+    "description": "Dell MS300 Ambidextrous Wireless Optical Mouse Black",
+    "price": 21.55,
+    "category": "Accessories",
+    "thumbnail": "https://m.media-amazon.com/images/I/71ufA6nd5cL._AC_SX466_.jpg",
+    "images": [
+        "https://m.media-amazon.com/images/I/71ufA6nd5cL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/81ckfsQReLL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/71+cQ+B-qsL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/71+92SVyTrL._AC_SX466_.jpg"
+        ]
+    },
+    {
+    "id":41,
+    "product":"Headset",
+    "title":"EPOS ADAPT 160T",
+    "count":1,
+    
+    "model":"EPOS",
+    "description": "EPOS ADAPT 160T Gaming Headset with Stereo",
+    "price": 52.33,
+    "category": "Accessories",
+    "thumbnail": "https://multi-themes.myshopify.com/cdn/shop/products/S45b7764a1982407eb76e123dc9cbd7673.jpg_640x640_43464a25-5c3b-4d53-933a-336b5e88ee16.webp?v=1693224505",
+    "images": [
+        "https://multi-themes.myshopify.com/cdn/shop/products/S45b7764a1982407eb76e123dc9cbd7673.jpg_640x640_43464a25-5c3b-4d53-933a-336b5e88ee16.webp?v=1693224505",
+        "https://multi-themes.myshopify.com/cdn/shop/files/petri-r-QsjLjEfhlZg-unsplash.jpg?v=1694604947&width=1600",
+        "",
+        ""
+        ]
+    },
+    {
+    "id":42,
+    "product":"Headset",
+    "title":"Lenovo Go Wired",
+    "count":1,
+    
+    "model":"Lenovo",
+    "description": "Lenovo Go Wired Noise Cancelling Headset in Black",
+    "price": 54.02,
+    "category": "Accessories",
+    "thumbnail": "https://yuva-theme-amaze.myshopify.com/cdn/shop/files/2.jpg?v=1688714328&width=900",
+    "images": [
+        "https://yuva-theme-amaze.myshopify.com/cdn/shop/files/2.jpg?v=1688714328&width=900",
+        "https://yuva-theme-amaze.myshopify.com/cdn/shop/files/1_97e2203b-4c97-4f69-a6ea-f4fef064a9a5.jpg?v=1688714328&width=180",
+        "https://yuva-theme-amaze.myshopify.com/cdn/shop/files/1-1.jpg?v=1688714328&width=180",
+        "https://yuva-theme-amaze.myshopify.com/cdn/shop/files/3_dfc4de3b-b9ab-4c85-8f4c-3b179c53dfdf.jpg?v=1688714322&width=180"
+        ]
+    },
+    {
+    "id":43,
+    "product":"Headset",
+    "title":"Lenovo 100 Double",
+    "count":1,
+    
+    "model":"Lenovo",
+    "description": "Lenovo 100 Double Sided On-ear Stereo USB with Microphone Headset",
+    "price": 43.00,
+    "category": "Accessories",
+    "thumbnail": "https://yuva-theme-amaze.myshopify.com/cdn/shop/files/GoldHeadphone-1a.png?v=1702037024&width=900",
+    "images": [
+        "https://yuva-theme-amaze.myshopify.com/cdn/shop/files/GoldHeadphone-1a.png?v=1702037024&width=900",
+        "https://yuva-theme-amaze.myshopify.com/cdn/shop/files/GoldHeadphone-2b.png?v=1702037025&width=180",
+        "https://yuva-theme-amaze.myshopify.com/cdn/shop/files/GoldHeadphone-3c.png?v=1702037024&width=180",
+        "https://yuva-theme-amaze.myshopify.com/cdn/shop/files/GoldHeadphone-4d.png?v=1702037025&width=180"
+        ]
+    },
+    {
+    "id":44,
+    "product":"Headset",
+    "title":"Turtle Beach Recon 70P",
+    "count":1,
+    
+    "model":"Asus",
+    "description": "Turtle Beach Recon 70P Gaming Headset - 2 Colour Options",
+    "price": 27.52,
+    "category": "Accessories",
+    "thumbnail": "https://multi-themes.myshopify.com/cdn/shop/files/rBNaNmEQ9KGAFGuPAAPAdCY6woI889.webp?v=1693898160",
+    "images": [
+        "https://multi-themes.myshopify.com/cdn/shop/files/rBNaNmEQ9KGAFGuPAAPAdCY6woI889.webp?v=1693898160",
+        "https://multi-themes.myshopify.com/cdn/shop/products/S0ac190a1153f42c28f787ba4be93050cb_940x.webp?v=1693898160",
+        "https://multi-themes.myshopify.com/cdn/shop/files/Sf35db082094a4ea5bd783b0e8d53091bk.jpg_640x640new_70x.jpg?v=1693909773",
+        "https://multi-themes.myshopify.com/cdn/shop/files/rBVap2EQ7kyAXoEBAAP-xqnUDD0917_70x.webp?v=1693909773"
+        ]
+    },
+    {
+    "id":45,
+    "product":"Headset",
+    "title":"Jabra Evolve2 65 ",
+    "count":1,
+    
+    "model":"Asus",
+    "description": "Jabra Evolve2 65 Double Sided On-ear Stereo Bluetooth with Microphone Headset",
+    "price": 42.20,
+    "category": "Accessories",
+    "thumbnail": "https://yuva-theme-amaze.myshopify.com/cdn/shop/files/BrownHeadphone-1a.png?v=1702036750&width=900",
+    "images": [
+        "https://yuva-theme-amaze.myshopify.com/cdn/shop/files/BrownHeadphone-1a.png?v=1702036750&width=900",
+        "https://yuva-theme-amaze.myshopify.com/cdn/shop/files/BrownHeadphone-2b.png?v=1702036750&width=900",
+        "https://yuva-theme-amaze.myshopify.com/cdn/shop/files/BrownHeadphone-3c.png?v=1702036750&width=180",
+        ""
+        ]
+    },
+    {
+    "id":46,
+    "product":"SSD and HDD",
+    "title":"Kingston 2280",
+    "count":1,
+    
+    "model":"Kingston",
+    "description": "Kingston 2280 NV2 1TB M.2 NVMe Internal SSD",
+    "price": 57.97,
+    "category": "Computer parts",
+    "thumbnail": "https://multi-themes.myshopify.com/cdn/shop/products/Sf336e8c713e744b6bb3d6b25b2b82f96x_940x.webp?v=1693224423",
+    "images": [
+        "https://multi-themes.myshopify.com/cdn/shop/products/Sf336e8c713e744b6bb3d6b25b2b82f96x_940x.webp?v=1693224423",
+        "https://multi-themes.myshopify.com/cdn/shop/products/S9e2ebfa5f1d34a26adb5c68264f2a21ax.webp?v=1693224423",
+        "https://multi-themes.myshopify.com/cdn/shop/products/6292525794.jpg?v=1693224423",
+        "https://multi-themes.myshopify.com/cdn/shop/files/andrey-matveev-ekiRuzxdWYA-unsplash_940x.jpg?v=1694510281"
+        ]
+    },
+    {
+    "id":47,
+    "product":"SSD and HDD",
+    "title":"Samsung T7 SSD",
+    "count":1,
+    
+    "model":"Samsung",
+    "description": "Samsung T7 NVMe 2TB 2.5 Inch USB 3.2 External SSD",
+    "price": 179.66,
+    "category": "Computer parts",
+    "thumbnail": "https://m.media-amazon.com/images/I/21ys6wDn1NL._AC_.jpg",
+    "images": [
+        "https://m.media-amazon.com/images/I/21ys6wDn1NL._AC_.jpg",
+        "https://m.media-amazon.com/images/I/81PijwOLSWL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/912Ya5k32eL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/81vCejH6FxL._AC_SX466_.jpg"
+        ]
+    },
+    {
+    "id":48,
+    "product":"SSD and HDD",
+    "title":"Seagate Exos X20 ",
+    "count":1,
+    
+    "model":"Asus",
+    "description": "Seagate Exos X20 20TB SATA 7200 RPM 3.5 Inch Internal Hard Drive",
+    "price": 202.20,
+    "category": "Computer parts",
+    "thumbnail": "https://m.media-amazon.com/images/I/81JlEg4HwGL._AC_SX466_.jpg",
+    "images": [
+        "https://m.media-amazon.com/images/I/81JlEg4HwGL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/81vdfCJBiEL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/71qKVDWAEUL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/818300qKJCL._AC_SX466_.jpg"
+        ]
+    },
+    {
+    "id":49,
+    "product":"Graphics Card",
+    "title":"Gigabyte GeForce RTX 3060",
+    "count":1,
+    
+    "model":"GeForce",
+    "description": "Gigabyte GeForce RTX 3060 Windforce 12GB GDDR6 OC Graphics Card V2",
+    "price": 263.97,
+    "category": "Computer parts",
+    "thumbnail": "https://gaming-workdo.myshopify.com/cdn/shop/products/1_dfcbc21e-9bcd-460a-8c3a-22376c9f3724_600x600.png?v=1671447171",
+    "images": [
+        "https://gaming-workdo.myshopify.com/cdn/shop/products/1_dfcbc21e-9bcd-460a-8c3a-22376c9f3724_600x600.png?v=1671447171",
+        "https://gaming-workdo.myshopify.com/cdn/shop/products/01_600x600.png?v=1671447170",
+        "https://gaming-workdo.myshopify.com/cdn/shop/products/11_600x600.png?v=1671447172",
+        "https://gaming-workdo.myshopify.com/cdn/shop/products/15022503_2-removebg-preview_600x600.png?v=1671447171"
+        ]
+    },
+    {
+    "id":50,
+    "product":"Graphics Card",
+    "title":"Gigabyte NVIDIA GeForce RTX 4070",
+    "count":1,
+    
+    "model":"NVIDIA",
+    "description": "Gigabyte NVIDIA GeForce RTX 4070 12GB 2565MHz GDDR6X OC Graphics Card",
+    "price": 542.20,
+    "category": "Computer parts",
+    "thumbnail": "https://multi-themes.myshopify.com/cdn/shop/products/S4ffa0438913741a4b6f295d41c3250ebC_940x.webp?v=1693224385",
+    "images": [
+        "https://multi-themes.myshopify.com/cdn/shop/products/S4ffa0438913741a4b6f295d41c3250ebC_940x.webp?v=1693224385",
+        "https://multi-themes.myshopify.com/cdn/shop/products/S9559768296ed491a94b02164f44f6ca6B_940x.webp?v=1693224385",
+        "https://multi-themes.myshopify.com/cdn/shop/products/Sf093da8b8a5541159b477f62866566eeu_940x.webp?v=1693224385",
+        "https://multi-themes.myshopify.com/cdn/shop/products/Se8c027c59f1141718f492fb28b3d4c8bV_70x.webp?v=1693224385"
+        ]
+    },
+    {
+    "id":51,
+    "product":"Graphics Card",
+    "title":"Box Opened Sapphire AMD",
+    "count":1,
+    
+    "model":"AMD",
+    "description": "Box Opened Sapphire AMD PULSE Radeon RX 550 4GB 1206MHz GDDR5 Graphics Card",
+    "price": 63.40,
+    "category": "Computer parts",
+    "thumbnail": "https://gaming-workdo.myshopify.com/cdn/shop/products/15022503_2-removebg-preview_600x600.png?v=1671447171",
+    "images": [
+        "https://gaming-workdo.myshopify.com/cdn/shop/products/15022503_2-removebg-preview_600x600.png?v=1671447171",
+        "https://gaming-workdo.myshopify.com/cdn/shop/products/14947024_3-removebg-preview_600x600.png?v=1671447393",
+        "https://gaming-workdo.myshopify.com/cdn/shop/products/14947024_4-removebg-preview_600x600.png?v=1671447393",
+        ""
+        ]
+    },
+    {
+    "id":52,
+    "product":"Motherboard",
+    "title":"ASRock B760M Pro",
+    "count":1,
+    
+    "model":"Asus",
+    "description": "ASRock B760M Pro Intel LGA 1700 DDR4 Micro ATX Motherboard",
+    "price": 101.00,
+    "category": "Computer parts",
+    "thumbnail": "https://multi-themes.myshopify.com/cdn/shop/files/S279eca4f22864b578abca2b57e9fea3e7_940x.webp?v=1693305900",
+    "images": [
+        "https://multi-themes.myshopify.com/cdn/shop/files/S279eca4f22864b578abca2b57e9fea3e7_70x.webp?v=1693305900",
+        "https://multi-themes.myshopify.com/cdn/shop/files/S5e0e5f3fc0634195b60dca9d46acb3c8Y_940x.webp?v=1693306516",
+        "https://multi-themes.myshopify.com/cdn/shop/files/S279eca4f22864b578abca2b57e9fea3e7_940x.webp?v=1693305900",
+        "https://multi-themes.myshopify.com/cdn/shop/files/sven-finger-2sILr4DwabQ-unsplash_940x.jpg?v=1694604648"
+        ]
+    },
+    {
+    "id":53,
+    "product":"Motherboard",
+    "title":"GigaByte A520M",
+    "count":1,
+    
+    "model":"AMD",
+    "description": "GigaByte A520M AMD A520 AM4 DDR4 Micro ATX Motherboard",
+    "price": 54.56,
+    "category": "Computer parts",
+    "thumbnail": "https://multi-themes.myshopify.com/cdn/shop/files/S5e0e5f3fc0634195b60dca9d46acb3c8Y_940x.webp?v=1693306516",
+    "images": [
+        "https://multi-themes.myshopify.com/cdn/shop/files/S279eca4f22864b578abca2b57e9fea3e7_940x.webp?v=1693305900",
+        "https://multi-themes.myshopify.com/cdn/shop/files/S5e0e5f3fc0634195b60dca9d46acb3c8Y_940x.webp?v=1693306516",
+        "https://multi-themes.myshopify.com/cdn/shop/files/S279eca4f22864b578abca2b57e9fea3e7_940x.webp?v=1693305900",
+        ""
+        ]
+    },
+    {
+    "id":54,
+    "product":"Motherboard",
+    "title":"Gigabyte Z790 AORUS",
+    "count":1,
+    
+    "model":"Asus",
+    "description": "Gigabyte Z790 AORUS ELITE AX ICE DDR5 Motherboard",
+    "price": 269.88,
+    "category": "Computer parts",
+    "thumbnail": "https://multi-themes.myshopify.com/cdn/shop/files/sven-finger-2sILr4DwabQ-unsplash_940x.jpg?v=1694604648",
+    "images": [
+        "https://multi-themes.myshopify.com/cdn/shop/files/sven-finger-2sILr4DwabQ-unsplash_940x.jpg?v=1694604648",
+        "https://multi-themes.myshopify.com/cdn/shop/files/S5e0e5f3fc0634195b60dca9d46acb3c8Y_940x.webp?v=1693306516",
+        "https://multi-themes.myshopify.com/cdn/shop/files/S279eca4f22864b578abca2b57e9fea3e7_940x.webp?v=1693305900",
+        "https://multi-themes.myshopify.com/cdn/shop/files/S279eca4f22864b578abca2b57e9fea3e7_940x.webp?v=1693305900"
+        ]
+    },
+    {
+    "id":55,
+    "product":"Prosessor",
+    "title":"Intel Xeon E5-2407",
+    "count":1,
+    
+    "model":"Intel",
+    "description": "Intel Xeon E5-2407 Processor Option for ThinkServer RD330/RD430",
+    "price": 297.22,
+    "category": "Computer parts",
+    "thumbnail": "https://m.media-amazon.com/images/I/51klBAsxGHL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "images": [
+        "https://m.media-amazon.com/images/I/51klBAsxGHL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/61kZ8MUKn0L._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/61UVtHz+IlL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/51mhFDz4r3L._AC_SX466_.jpg"
+        ]
+    },
+    {
+    "id":56,
+    "product":"Prosessor",
+    "title":"Intel Core i9",
+    "count":1,
+    
+    "model":"Intel",
+    "description": "Intel Core i9 13900 24 Core LGA 1700 Raptor Lake Processor",
+    "price": 544.00,
+    "category": "Computer parts",
+    "thumbnail": "https://m.media-amazon.com/images/I/61IIbwz-+ML._AC_SX466_.jpg",
+    "images": [
+        "https://m.media-amazon.com/images/I/61IIbwz-+ML._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/61l7QVhSBwL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/51hVvPf7T0L._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/61l7QVhSBwL._AC_SX466_.jpg"
+        ]
+    },
+    {
+    "id":57,
+    "product":"Prosessor",
+    "title":"Intel Core i5",
+    "count":1,
+    
+    "model":"Intel",
+    "description": "Intel Core i5 13600K 14 Core LGA 1700 Raptor Lake-S Processor",
+    "price": 244.50,
+    "category": "Computer parts",
+    "thumbnail": "https://m.media-amazon.com/images/I/61B+DiW5YUL._AC_SX679_.jpg",
+    "images": [
+        "https://m.media-amazon.com/images/I/61B+DiW5YUL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61l7QVhSBwL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/41yr57C2b0L.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/71SEGYokt6L._AC_.jpg"
+        ]
+    },
+    {
+    "id":58,
+    "product":"Case for the system block",
+    "title":"Antec DF800 ",
+    "count":1,
+    
+    "model":"Asus",
+    "description": "Antec DF800 FLUX Mid Tower Gaming PC Case Black",
+    "price": 73.97,
+    "category": "Computer parts",
+    "thumbnail": "https://m.media-amazon.com/images/I/71s+qbMWMLL._AC_SY300_SX300_.jpg",
+    "images": [
+        "https://m.media-amazon.com/images/I/71s+qbMWMLL._AC_SY300_SX300_.jpg",
+        "https://m.media-amazon.com/images/I/71w8QclDm9L._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/81QSE9NyyaL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/71fYcDnRmfL._AC_SX466_.jpg"
+        ]
+    },
+    {
+    "id":59,
+    "product":"Case for the system block",
+    "title":"Antec NX410",
+    "count":1,
+    
+    "model":"Asus",
+    "description": "Antec NX410 ARGB Mid Tower Gaming Case Black    ",
+    "price": 52.22,
+    "category": "Computer parts",
+    "thumbnail": "https://m.media-amazon.com/images/I/71bU4sGtytL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "images": [
+        "https://m.media-amazon.com/images/I/71bU4sGtytL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/61+tgrOyi7L._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/81aaRbwyjDL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/71XOHJh1vnL._AC_SX466_.jpg"
+        ]
+    },
+    {
+    "id":60,
+    "product":"Case for the system block",
+    "title":"Antec DF700 Flux",
+    "count":1,
+    
+    "model":"Asus",
+    "description": "Antec DF700 Flux ARGB Mid Tower Gaming PC Case Black",
+    "price": 76.97,
+    "category": "Computer parts",
+    "thumbnail": "https://m.media-amazon.com/images/I/616fvRvyxML.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "images": [
+        "https://m.media-amazon.com/images/I/616fvRvyxML.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/61e1TKQPL7L._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/61fTdKraxJL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/51yd2rXEBiL._AC_SX466_.jpg"
+        ]
+    }
+]

@@ -1,0 +1,108 @@
+.contackUS{
+    text-align: center;
+}
+
+.contackUS_container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    margin: 2rem 10rem;
+}
+
+.contackUS_title{
+    width: 65%;
+    color: gray;
+    font-size: 1rem;
+}
+
+.messageBox{
+    display: flex;
+    gap: 2rem;
+}
+
+.messageBox_img{
+    width: 50%;
+}
+
+.messageBox_formCard{
+    width:40%;
+}
+
+.messageBox_formCard_formBox{
+    display: flex;
+    gap: 2rem;
+}
+
+.messageBox_formCard_form{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.messageBox_formCard_formBox_card_title{
+    font-size: 1rem;
+}
+
+.messageBox_formCard_formBox_card{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.messageBox_formCard_formBox_input{
+    width: 100%;
+    height: 40px;
+    border: 1px solid gray;
+    border-radius: 4px;
+}
+
+.messageBox_formCard_formBtn{
+    width: 60%;
+    height: 45px;
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background: linear-gradient(to right, #9140c7, #c740a3);
+    border: none;
+    font-weight: bold;
+}
+
+@media screen and (max-width:768px) {
+    .messageBox{
+        flex-direction: column;
+
+        &_img{
+            width: 100%;
+        }
+
+        &_formCard{
+            width: 100%;
+        }
+        
+        &_formCard_formBox{
+            flex-direction: column;
+        }
+
+        &_formCard_formBtn{
+            width: 100%;
+        }
+
+        &_formCard_title{
+            font-size: 1rem;
+        }
+    }
+
+    .contackUS_container{
+        margin: 20px;
+    }
+
+
+    .contackUS_title{
+        width: 100%;
+    }
+
+}

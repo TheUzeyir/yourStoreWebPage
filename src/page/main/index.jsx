@@ -1,0 +1,17 @@
+export {default as Header}  from '../../layout/header/Header'
+export {default as Footer}  from '../../layout/footer/Footer'
+export {default as Slider}  from '../../Components/slider/videoSlider/Slider';
+export {default as AutoSlider}  from '../../Components/slider/autoPlaySlider/AutoSlider';
+export {default as HandleSlide}  from '../../Components/slider/handleSlide/HandleSlide';
+export {default as FindMoreCard}  from '../../Components/findMoreCard/FindMoreCard';
+export {default as TimerCard}  from '../../Components/timerCard/TimerCard';
+export {default as ToggleClickPhoto}  from '../../Components/toggeClickPhoto/ToggleClickPhoto';
+export {default as AllProduct}  from '../../Components/allProduct/AllProduct';
+export {default as AutoPlayMethods}  from '../../Components/slider/autoPlayProduct/AutoPlayProductSlide';
+export {default as VideoCart}  from '../../Components/videoCard/VideoCart';
+export {default as findPhotoImg}  from "../../assets/img/mainPage/cameraFInd.avif"
+export {default as findLaptopImg}  from "../../assets/img/mainPage/laptopFind.avif"
+export {default as findHeadPhoneImg}  from "../../assets/img/mainPage/headPhoneFInd.webp"
+export {default as findSmartWatchImg}  from "../../assets/img/mainPage/smartWatchFind.webp"
+export {default as findGaminImg}  from "../../assets/img/mainPage/gamingFind.webp"
+export {default as findVRImg}  from "../../assets/img/mainPage/findVR.webp"
