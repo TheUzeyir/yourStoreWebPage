@@ -12,7 +12,7 @@ const ToggleClickPhoto = () => {
         setSelectedItem(prevItem => (prevItem === id ? null : id));
         console.log(id);
     }
-    
+     
     return (
         <div className={style.imgBox}>
             <p className={style.imgBox_headText}>Ultimate Performance</p>
@@ -24,7 +24,7 @@ const ToggleClickPhoto = () => {
             <CiCirclePlus className={style.imgBox_icon_keyboard} onClick={() => handleImgClick(34)}/>
             <CiCirclePlus className={style.imgBox_icon_headset} onClick={() => handleImgClick(44)}/>
             <CiCirclePlus className={style.imgBox_icon_laptop} onClick={() => handleImgClick(2)} />
-            {selectedItem === 19 && (
+            {selectedItem === 19 && ( 
                 <div className={style.monitorBox}>
                     <Link to={`/product-details/${data.find(item => item.id === 19)?.id}`} className={style.productLink}>
                         <img src={data.find(item => item.id === 19)?.thumbnail} alt="" className={style.handleClick_img}/>

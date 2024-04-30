@@ -9,6 +9,7 @@ import { IoIosArrowUp,IoIosArrowForward } from "react-icons/io";
 import{findPhotoImg,findLaptopImg,findHeadPhoneImg,findSmartWatchImg,findGaminImg,findVRImg} from "./index"
 import style from "./main.module.css"
 import SimpleProductCard from '../../Components/simpleProductCard/SimpleProductCard';
+import LoginCard from '../../Components/loginCard/LoginCard';
 
 const MainPage = () => {
 
@@ -61,7 +62,6 @@ const topScrollBtn=()=>{
 }
 
   return (<div className={style.mainPage}>
-    {/* <AboutUsProducts/> */}
       <Header/>
       <Slider/>
         <div className="container">
@@ -96,6 +96,7 @@ const topScrollBtn=()=>{
     </div>
     {AutoVideoCard}
      <TimerCard hours={23} minutes={10} seconds={0}/>
+      <LoginCard/>
      <HandleSlide/>
      <div className="container">
       <div className={style.miniInfoCard}>
@@ -104,8 +105,8 @@ const topScrollBtn=()=>{
         <div className={style.miniInfoCard_box}><CiFaceSmile/>Hassle Free Returns</div>
       </div>
     </div>
-    <div className={style.footer_nav} onClick={topScrollBtn}>
-        <p className={style.footer_nav_text}>Back To Top<IoIosArrowUp/></p>
+    <div className={style.footer_nav} >
+        <p className={style.footer_nav_text} onClick={topScrollBtn}>Back To Top<IoIosArrowUp/></p>
             <Footer/>  
       </div>
   </div>

@@ -97,4 +97,7 @@
   .footerMain_login_contackLogo {
     font-size: 10px;
   }
+  .footerMain_login_inputBox {
+    display: none;
+  }
 }/*# sourceMappingURL=footer.module.css.map */

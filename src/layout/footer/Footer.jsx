@@ -1,12 +1,20 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { useNavigate } from 'react-router-dom';
 import { IoIosArrowUp,IoIosArrowForward } from "react-icons/io";
 import { FaFacebook,FaPinterest } from "react-icons/fa";
 import { FaXTwitter,FaInstagram } from "react-icons/fa6";
 import style from "./footer.module.css"
 
-const Footer = ({clickScrollBtn}) => {
+const Footer = () => {
   const navigate=useNavigate() 
+  const[email,setEmail]=useState('')
+  const handleClickEmail=(e)=>{
+    setEmail(e.target.value)
+  }
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    console.log("Submitted email:", email);
+};
   const handleClickCategory = (category) => {
     navigate(`/shop-page/${category}`);
   }; 
@@ -46,8 +54,16 @@ const Footer = ({clickScrollBtn}) => {
         <div className={style.footerMain_login}>
             <p className={style.footerMain_title}>NewsLetter</p>
             <div className={style.footerMain_login_inputBox}>
-                <input type="email" className={style.footerMain_login_inputBox_input} placeholder='Enter your e-mail'/>
-                <IoIosArrowForward className={style.footerMain_login_inputBox_icon}/>
+            <form onSubmit={handleSubmit} className={style.footerMain_login_inputBox}>
+              <input
+                type="email"
+                value={email}
+                required
+                onChange={handleClickEmail}
+                className={style.footerMain_login_inputBox_input}
+                placeholder='Enter your e-mail'
+              />
+            </form>
             </div>
             <p className={style.footerMain_login_text}>Join our newsletter and never miss out on the latest trends and promotions.</p>
             <div className={style.footerMain_login_contackLogo}>
@@ -59,7 +75,7 @@ const Footer = ({clickScrollBtn}) => {
         </div>
       </div>
     </div>
-  )
+  ) 
 }
 
 export default Footer

@@ -1,0 +1,90 @@
+.loginCard {
+  margin-bottom: 200px;
+}
+
+.loginCard_img {
+  width: 100%;
+  height: 500px;
+  position: absolute;
+}
+
+.loginCard_box {
+  position: relative;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+  padding-top: 100px;
+}
+
+.loginCard_box_headTitle {
+  color: #C9BBD4;
+}
+
+.loginCard_box_mainTitle {
+  font-size: 5rem;
+  font-weight: bold;
+}
+
+.loginCard_box_formCard {
+  width: 300px;
+  position: relative;
+  border-radius: 8px;
+  height: 50px;
+  border: 1px solid white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.loginCard_box_formCard_input {
+  border: 1px solid white;
+  flex: 1;
+  border-radius: 8px;
+  height: 100%;
+  background: transparent;
+  color: white;
+  padding: 1rem;
+}
+
+.loginCard_box_formCard_input:focus {
+  background: linear-gradient(to right, #C948B3, #c740a3, #B448CA);
+}
+
+.loginCard_box_formCard_input::-moz-placeholder {
+  color: white;
+}
+
+.loginCard_box_formCard_input::placeholder {
+  color: white;
+}
+
+.loginCard_box_formCard_button_icon {
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.loginCard_box_formCard_button {
+  color: white;
+  border: none;
+  position: absolute;
+  right: 10px;
+  width: 30px;
+  height: 30px;
+  background: red;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to right, #C948B3, #c740a3, #B448CA);
+}
+
+@media screen and (max-width: 768px) {
+  .loginCard_box_formCard {
+    width: 200px;
+  }
+  .loginCard_box_mainTitle {
+    font-size: 3rem;
+  }
+}/*# sourceMappingURL=loginCard.module.css.map */

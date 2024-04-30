@@ -223,6 +223,9 @@
     }
   }
   @media screen and (max-width:768px) {
+    .simpleProductCard{
+      display: none;
+    }
     .miniInfoCard{
      flex-direction: column;
      gap: 1rem;
@@ -234,6 +237,10 @@
         margin: 1rem;
     }
   
+    .autoVideo{
+      height: 400px;
+    }
+
     .footer_nav_text{
       margin-left: 40%;
     }

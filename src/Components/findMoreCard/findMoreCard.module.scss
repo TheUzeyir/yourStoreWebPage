@@ -118,8 +118,12 @@
 
 @media screen and (max-width: 768px) {
 
+    .findMoreCard_box{
+        height: 400px;
+    }
+
     .findMoreCard_box_title_name,
     .findMoreCard_box_title_desc {
         font-size: 15px;
     }
-}
+} 

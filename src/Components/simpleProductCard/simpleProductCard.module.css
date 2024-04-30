@@ -230,7 +230,7 @@
   }
 }
 @media screen and (max-width: 768px) {
-  .cards {
-    grid-template-columns: repeat(2, 1fr);
+  .card_container {
+    display: none;
   }
 }/*# sourceMappingURL=simpleProductCard.module.css.map */

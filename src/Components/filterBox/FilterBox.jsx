@@ -35,7 +35,7 @@ const FilterBox = () => {
               isOpen ? '' : style.shopPage_main_filter_priceCard_header_icon_displayRotate
             }`}
           />
-        </div>
+        </div> 
         {isOpen && (
           <div className={style.shopPage_main_filter_priceCard_filterBox}>
             <div className={style.shopPage_main_filter_priceCard_filterBox_titleBox}>

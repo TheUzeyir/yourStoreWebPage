@@ -9,7 +9,7 @@ const TimerCard = ({ hours = 0, minutes = 0, seconds = 0 }) => {
   const navigate=useNavigate()
   const handleClickProduct = () => {
     navigate(`/shop-page/`); 
-  };
+  }; 
   const [initialTime, setInitialTime] = useState({ 
     hours: parseInt(hours),
     minutes: parseInt(minutes),

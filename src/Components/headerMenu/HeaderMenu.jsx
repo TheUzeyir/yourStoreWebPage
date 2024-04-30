@@ -29,7 +29,6 @@ const HeaderMenu = ({ isOpen, onClose }) => {
             document.removeEventListener("mousedown", handleClickOutside);
         };
     }, []); 
-
     const menuRef = useRef();
 
     const [isOpen1, setIsOpen1] = useState(false);
@@ -56,37 +55,37 @@ const HeaderMenu = ({ isOpen, onClose }) => {
 
     return (
         <div ref={menuRef}> 
-            <div className={`${style.header_sliderBar} ${isOpen ? "" : style.header_sliderBar_displayNone}`}>
-            <div className={style.header_sliderBar_title} onClick={toggleHeaderSliderBarVisibility}>Menu <MdOutlineClear className={`${style.header_sliderBar_title_icon}`} /></div>
-                <div className={style.header_sliderBar_card}>
-                    <div className={style.header_sliderBar_card_product}>
-                        <div className={style.header_sliderBar_card_product_name}><FaComputer/><span onClick={()=>handleClickProduct('PC')}>Computer</span><IoIosArrowDown className={`${style.header_sliderBar_card_product_name_icon} ${isOpen1 ? "" : style.header_sliderBar_card_product_name_icon_rotate}`} onClick={toggleCloseProductname1} /></div>
-                        <div className={`${style.header_sliderBar_card_product_data} ${isOpen1 ? "" : style.header_sliderBar_card_product_data_displayBlock}`}>
-                            <p className={style.header_sliderBar_card_product_data_productName}onClick={()=>handleClickProduct('PC')} >PC</p>
-                            <p className={style.header_sliderBar_card_product_data_productName} onClick={()=>handleClickProduct('Laptop')}>Laptop </p>
+            <div className={`${style.header_slideBar} ${isOpen ? "" : style.header_slideBar_displayNone}`}>
+            <div className={style.header_slideBar_title} onClick={toggleHeaderSliderBarVisibility}>Menu <MdOutlineClear className={`${style.header_slideBar_title_icon}`} /></div>
+                <div className={style.header_slideBar_card}>
+                    <div className={style.header_slideBar_card_product}>
+                        <div className={style.header_slideBar_card_product_name}><FaComputer/><span onClick={()=>handleClickProduct('PC')}>Computer</span><IoIosArrowDown className={`${style.header_slideBar_card_product_name_icon} ${isOpen1 ? "" : style.header_slideBar_card_product_name_icon_rotate}`} onClick={toggleCloseProductname1} /></div>
+                        <div className={`${style.header_slideBar_card_product_data} ${isOpen1 ? "" : style.header_slideBar_card_product_data_displayBlock}`}>
+                            <p className={style.header_slideBar_card_product_data_productName}onClick={()=>handleClickProduct('PC')} >PC</p>
+                            <p className={style.header_slideBar_card_product_data_productName} onClick={()=>handleClickProduct('Laptop')}>Laptop </p>
                         </div>
                     </div>
                 </div>
-                        <div className={style.header_sliderBar_card}>
-          <div className={style.header_sliderBar_card_product}>
-            <div className={style.header_sliderBar_card_product_name}><AiOutlinePartition/><span  onClick={()=>handleClickCategory('Computer parts')}>Computer parts</span> <IoIosArrowDown className={`${style.header_sliderBar_card_product_name_icon} ${isOpen2 ? "" : style.header_sliderBar_card_product_name_icon_rotate}`} onClick={toggleCloseProductname2} /></div>
-            <div className={`${style.header_sliderBar_card_product_data} ${isOpen2 ? "" : style.header_sliderBar_card_product_data_displayBlock}`}>
-              <p className={style.header_sliderBar_card_product_data_productName} onClick={()=>handleClickProduct('Case for the system block')}>Case for the system block</p>
-              <p className={style.header_sliderBar_card_product_data_productName} onClick={()=>handleClickProduct('SSD and HDD')}>SSD and HDD</p>
-              <p className={style.header_sliderBar_card_product_data_productName} onClick={()=>handleClickProduct('Graphics Card')}>Graphics Card </p>
-              <p className={style.header_sliderBar_card_product_data_productName} onClick={()=>handleClickProduct('Motherboard')}>Motherboard</p>
-              <p className={style.header_sliderBar_card_product_data_productName} onClick={()=>handleClickProduct('Prosessor')}>Processor</p>
+                        <div className={style.header_slideBar_card}>
+          <div className={style.header_slideBar_card_product}>
+            <div className={style.header_slideBar_card_product_name}><AiOutlinePartition/><span  onClick={()=>handleClickCategory('Computer parts')}>Computer parts</span> <IoIosArrowDown className={`${style.header_slideBar_card_product_name_icon} ${isOpen2 ? "" : style.header_slideBar_card_product_name_icon_rotate}`} onClick={toggleCloseProductname2} /></div>
+            <div className={`${style.header_slideBar_card_product_data} ${isOpen2 ? "" : style.header_slideBar_card_product_data_displayBlock}`}>
+              <p className={style.header_slideBar_card_product_data_productName} onClick={()=>handleClickProduct('Case for the system block')}>Case for the system block</p>
+              <p className={style.header_slideBar_card_product_data_productName} onClick={()=>handleClickProduct('SSD and HDD')}>SSD and HDD</p>
+              <p className={style.header_slideBar_card_product_data_productName} onClick={()=>handleClickProduct('Graphics Card')}>Graphics Card </p>
+              <p className={style.header_slideBar_card_product_data_productName} onClick={()=>handleClickProduct('Motherboard')}>Motherboard</p>
+              <p className={style.header_slideBar_card_product_data_productName} onClick={()=>handleClickProduct('Prosessor')}>Processor</p>
             </div>
           </div>
         </div>
-        <div className={style.header_sliderBar_card}>
-          <div className={style.header_sliderBar_card_product}>
-            <div className={style.header_sliderBar_card_product_name}><TbDeviceImacSearch/><span onClick={()=>handleClickCategory('Accessories')}>Accessories</span> <IoIosArrowDown className={`${style.header_sliderBar_card_product_name_icon} ${isOpen3 ? "" : style.header_sliderBar_card_product_name_icon_rotate}`} onClick={toggleCloseProductname3} /></div>
-            <div className={`${style.header_sliderBar_card_product_data} ${isOpen3 ? "" : style.header_sliderBar_card_product_data_displayBlock}`}>
-              <p className={style.header_sliderBar_card_product_data_productName} onClick={()=>handleClickProduct('Keyboard')}>Keyboard</p>
-              <p className={style.header_sliderBar_card_product_data_productName} onClick={()=>handleClickProduct('Mice')}>Mouse</p>
-              <p className={style.header_sliderBar_card_product_data_productName} onClick={()=>handleClickProduct('Headset')}>Headset</p>
-              <p className={style.header_sliderBar_card_product_data_productName} onClick={()=>handleClickProduct('Monitor')}>Monitor</p>
+        <div className={style.header_slideBar_card}>
+          <div className={style.header_slideBar_card_product}>
+            <div className={style.header_slideBar_card_product_name}><TbDeviceImacSearch/><span onClick={()=>handleClickCategory('Accessories')}>Accessories</span> <IoIosArrowDown className={`${style.header_slideBar_card_product_name_icon} ${isOpen3 ? "" : style.header_slideBar_card_product_name_icon_rotate}`} onClick={toggleCloseProductname3} /></div>
+            <div className={`${style.header_slideBar_card_product_data} ${isOpen3 ? "" : style.header_slideBar_card_product_data_displayBlock}`}>
+              <p className={style.header_slideBar_card_product_data_productName} onClick={()=>handleClickProduct('Keyboard')}>Keyboard</p>
+              <p className={style.header_slideBar_card_product_data_productName} onClick={()=>handleClickProduct('Mice')}>Mouse</p>
+              <p className={style.header_slideBar_card_product_data_productName} onClick={()=>handleClickProduct('Headset')}>Headset</p>
+              <p className={style.header_slideBar_card_product_data_productName} onClick={()=>handleClickProduct('Monitor')}>Monitor</p>
             </div>
           </div>
         </div>

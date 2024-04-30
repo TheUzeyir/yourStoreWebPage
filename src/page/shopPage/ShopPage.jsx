@@ -14,7 +14,8 @@ import { updateFilteredProducts } from '../../redux/filterSliderSlice';
 import { FaRegHeart } from "react-icons/fa";
 import { BsFillHeartFill } from "react-icons/bs";
 import notHaveProducts from "../../assets/img/mainPage/notProductsFound.png";
-import style from './shopPaage.module.scss'; 
+import style from './shopPaage.module.scss';  
+import FilterBoxResponsive from '../../Components/FilterBoxResponsive/FilterBoxResponsive';
 
 const ShopPage = () => { 
   const { category, product } = useParams();
@@ -126,7 +127,10 @@ const ShopPage = () => {
         </div>
       </div>
       <div className="container">
-        <p className={style.shopPage_goBack} onClick={() => navigate(-1)}><IoIosArrowBack />Go Back</p>
+        <div className={style.shopPage_main_header}>
+          <p className={style.shopPage_goBack} onClick={() => navigate(-1)}><IoIosArrowBack />Go Back</p>
+          <div className={style.filertBox_responsive}><FilterBoxResponsive/></div>
+        </div>
         <div className={style.shopPage_main}>
           <div className={style.shopPage_main_filter}>
             <FilterBox handleMaxPriceChange={handleMaxPriceChange} />

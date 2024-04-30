@@ -60,4 +60,12 @@
   .timerCard_box_card {
     width: 96%;
   }
+}
+@media screen and (max-width: 768px) {
+  .timerCard_box_img {
+    height: 500px;
+  }
+  .timerCard_box {
+    height: 550px;
+  }
 }/*# sourceMappingURL=timerCard.module.css.map */

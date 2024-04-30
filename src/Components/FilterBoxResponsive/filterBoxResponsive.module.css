@@ -1,0 +1,23 @@
+.FilterBoxResponsive {
+  margin-right: 1rem;
+  display: flex;
+}
+
+.FilterBoxResponsive_container {
+  display: flex;
+  flex-direction: column;
+}
+
+.FilterBoxResponsive {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  background: #ebe5e5;
+  padding: 0.2rem 0.5rem;
+  border-radius: 8px;
+  color: black;
+}
+
+.FilterBoxResponsive_box {
+  display: none;
+}/*# sourceMappingURL=filterBoxResponsive.module.css.map */
