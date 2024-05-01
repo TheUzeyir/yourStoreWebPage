@@ -348,12 +348,11 @@
     .notProductFoundCard_imgBox {
         width: 500px;
     }
-
 }
 
 @media screen and (max-width: 768px) {
     .shopPage_main_products {
-        grid-template-columns: repeat(auto-fit, minmax(10rem, 2fr));
+        grid-template-columns: repeat(auto-fit, minmax(14rem, 2fr));
     }
 
     .shopPage_main {
@@ -391,5 +390,17 @@
 
     .shopPage_main_filter{
         display: none;
+    }
+}
+
+@media screen and (max-width: 489px) {
+    .shopPage_main_products {
+        grid-template-columns: repeat(auto-fit, minmax(9rem, 2fr));
+    }
+
+    .shopPage_main_products_title{
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
     }
 }

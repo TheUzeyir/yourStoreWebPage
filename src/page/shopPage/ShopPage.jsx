@@ -136,7 +136,7 @@ const ShopPage = () => {
             <FilterBox handleMaxPriceChange={handleMaxPriceChange} />
           </div>
           <div className={style.shopPage_main_products}> 
-            {filteredProducts.length > 0 ? (
+            {filteredProducts.length > 0 ? ( 
               filteredProducts.map((productItem) => (
                 <div className={style.productCard} key={productItem.id}>
                     <div className={style.productCard_imgBox}>
